@@ -1,0 +1,28 @@
+D:\th9+8\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.exe.config
+D:\th9+8\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.exe
+D:\th9+8\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.pdb
+D:\th9+8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.AssemblyReference.cache
+D:\th9+8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.SuggestedBindingRedirects.cache
+D:\th9+8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmMain.resources
+D:\th9+8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.Properties.Resources.resources
+D:\th9+8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.GenerateResource.cache
+D:\th9+8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.CoreCompileInputs.cache
+D:\th9+8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.exe
+D:\th9+8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.pdb
+D:\th9+8\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmDangNhap.resources
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.exe.config
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.exe
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.pdb
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.AssemblyReference.cache
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.SuggestedBindingRedirects.cache
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmDangNhap.resources
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmMain.resources
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.Properties.Resources.resources
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.GenerateResource.cache
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.CoreCompileInputs.cache
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.exe
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.pdb
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmLop_03.resources
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmSinhVien.resources
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmThongTinDangNhap.resources
+Q:\2022hk1\Laptrinh .Net\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.frmDoiMK.resources
